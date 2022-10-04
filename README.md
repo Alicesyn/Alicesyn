@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Current occupation: CS Student at University of Houston
+- 🔭 Current occupation: Software Engineer
+- 🎓 Education: Computer Science at University of Houston (Spring 2022)
 - ⚡ Hobbies: Games, K-Pop, Anime
 
 <!--
