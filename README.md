@@ -2,7 +2,7 @@
 
 - 🔭 Current occupation: Software Engineer
 - 🎓 Education: Computer Science at University of Houston (Spring 2022)
-- ⚡ Hobbies: Games, K-Pop, Anime
+- ⚡ Hobbies: Video Games, Board Games, K-Pop, Anime
 
 <!--
 **Alicesyn/Alicesyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
